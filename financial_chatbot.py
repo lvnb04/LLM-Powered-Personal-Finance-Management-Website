@@ -1,6 +1,6 @@
 # financial_chatbot.py (Using Hardcoded TEST_USER_ID from .env)
 # Description: FastAPI backend for a financial chatbot using LangChain, Gemini, and Supabase.
-# Uses a hardcoded User ID from .env for all database operations. Lacks multi-user support.
+# Uses a hardcoded User ID from .env for all database operations. 
 
 # --- Core Libraries ---
 import os

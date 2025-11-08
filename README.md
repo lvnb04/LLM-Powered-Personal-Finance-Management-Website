@@ -59,7 +59,7 @@ Video Drive Link -> "https://drive.google.com/file/d/1TBHLD12ag394HBm5nFK1TyNwCz
 
 ## 🏗️ Project Architecture
 
-The Single Page Application (SPA) frontend (React) communicates with a FastAPI backend. The backend uses LangChain and the Google AI API to interact with the LLM. Supabase hosts the Postgres database, authentication, and real-time features.
+The multi Page Application frontend (React) communicates with a FastAPI backend. The backend uses LangChain and the Google AI API to interact with the LLM. Supabase hosts the Postgres database, authentication, and real-time features.
 
 ---
 
